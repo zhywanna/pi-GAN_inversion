@@ -1,5 +1,5 @@
 # GAN-inversion-script
-Some GAN inversion methods I used or wrote before.Mention that 1-4 are all wrote based on pi-GAN.
+Some GAN inversion methods I used or wrote before. Mention that 1-4 are all wrote based on pi-GAN.
 
 1\
 
